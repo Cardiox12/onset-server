@@ -1,0 +1,26 @@
+{
+	"servername": "Wonderful land",
+	"gamemode": "do what you want mielpops",
+	"website_url": "ewiowiewoi",
+	"ipaddress": "192.168.1.9",
+	"port": 7777,
+	"maxplayers": 100,
+	"password": "",
+	"timeout": 60000,
+	"iplimit": 5,
+	"masterlist": false,
+	"plugins": [
+	],
+	"packages": [
+		"default",
+		"freeroam",
+		"mapeditor",
+		"scoreboard"
+	],
+	"stream_distance": 12000.0,
+	"stream_update_rate": 0.05,
+	"voice": true,
+	"voice_sample_rate": 24000,
+	"voice_distance": 4000.0,
+	"voice_spatialization": true
+}
